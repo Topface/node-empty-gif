@@ -15,7 +15,7 @@ npm install empty-gif
 Module exposes buffer with empty gif so you may do whatever you want.
 Usually you want to write that buffer to http response.
 
-```
+```javascript
 var gif = require("empty-gif"),
     fs  = require("fs");
 
