@@ -1,0 +1,24 @@
+{
+  "name": "empty-gif",
+  "version": "1.0.0",
+  "description": "Buffer with transparent 1x1 gif image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Topface/node-empty-gif.git"
+  },
+  "keywords": [
+    "empty_gif",
+    "gif",
+    "transparent",
+    "nginx"
+  ],
+  "author": "Ian Babrou <ibobrik@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/Topface/node-empty-gif/issues"
+  }
+}
